@@ -13,8 +13,7 @@ The purpose of writing this software was to gain practical experience with Kotli
 I also used a continuous-learning approach by developing the application in smaller features. I first learned the basic Kotlin syntax and program structure, then added the study task data structure, user input, menu options, task viewing, completion, and deletion functionality.
 
 Youtube Video:
-
-[Add your YouTube demonstration link here]
+https://youtu.be/_eYjU8ZupXw 
 
 # Application Features
 
